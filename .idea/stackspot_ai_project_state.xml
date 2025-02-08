@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectStateService">
+    <option name="data">
+      <map>
+        <entry key="rodolffo.souza@zup.com.br">
+          <value>
+            <ProjectStateData>
+              <option name="conversationId" value="01JKHFAJQDBS8H2SEYZE9M217Z" />
+              <option name="indexedFiles">
+                <map>
+                  <entry key="$PROJECT_DIR$/pom.xml" value="0" />
+                  <entry key="$PROJECT_DIR$/src/main/java/com/zup/escola/EscolaApplication.java" value="0" />
+                  <entry key="$PROJECT_DIR$/src/main/java/com/zup/escola/comtrollers/AlunoController.java" value="0" />
+                  <entry key="$PROJECT_DIR$/src/main/java/com/zup/escola/models/Aluno.java" value="0" />
+                  <entry key="$PROJECT_DIR$/src/main/java/com/zup/escola/repositories/AlunoRepository.java" value="0" />
+                </map>
+              </option>
+              <option name="knowledgeSources">
+                <list>
+                  <option value="1ceaa61b-1a31-4d99-a6e5-ce012c1a3754-local-gitescola" />
+                </list>
+              </option>
+              <option name="projectId" value="01JKC6X7W2JNN7NG890RVETZPN" />
+            </ProjectStateData>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
